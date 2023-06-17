@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Testovoe14</string>
+    <string name="earn">EARN</string>
+    <string name="buy">BUY</string>
+    <string name="sale">SALE</string>
+    <string name="settings">SETTINGS</string>
+    <string name="clear_progress">CLEAR PROGRESS</string>
+    <string name="notificate">NOTIFICATE</string>
+</resources>
